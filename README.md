@@ -1,2 +1,2 @@
 # alpine
-```sudo nano /etc/profile
+```sudo nano /etc/profile```
